@@ -33,3 +33,17 @@ NewConcept1/lesson_063.xml
 NewConcept1/lesson_065.xml
 NewConcept1/lesson_067.xml
 NewConcept1/lesson_069.xml
+NewConcept1/lesson_071.xml
+NewConcept1/lesson_073.xml
+NewConcept1/lesson_075.xml
+NewConcept1/lesson_077.xml
+NewConcept1/lesson_079.xml
+NewConcept1/lesson_081.xml
+NewConcept1/lesson_083.xml
+NewConcept1/lesson_085.xml
+NewConcept1/lesson_087.xml
+NewConcept1/lesson_089.xml
+NewConcept1/lesson_091.xml
+NewConcept1/lesson_093.xml
+NewConcept1/lesson_095.xml
+NewConcept1/lesson_097.xml
